@@ -1,0 +1,1 @@
+This is a fork of [[https://github.com/manateelazycat/company-english-helper][manateelazycat/company-egnlish-helper]] which use `capf` instead of `company-mode`.
